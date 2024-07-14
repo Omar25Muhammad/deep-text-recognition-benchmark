@@ -1,5 +1,4 @@
 **/saved_models/*
-**/data_lmdb_release/*
 **/image_release/*
 **/result/*
 *.mdb
